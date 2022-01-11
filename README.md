@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=mertozler&show_icons=true&count_private=true&hide=contribs,issues" alt="Mert Ozler's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertozler&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>
+
 <!--
 **mertozler/mertozler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
