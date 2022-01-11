@@ -10,7 +10,7 @@
 ## 📫 How to Reach Me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meozler/)
+[![Linkedin Badge](https://img.shields.io/badge/mertozler-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meozler/)
 
 <!--
 **mertozler/mertozler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
