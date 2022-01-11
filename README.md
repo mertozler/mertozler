@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mert</h1>
+<h3 align="center">I'm a computer science student.</h3>
 
 ## 📌 GitHub Stats And Top Languages
 
@@ -8,7 +9,6 @@
 </p>
 
 ## 📫 How to Reach Me
-
 
 [![Linkedin Badge](https://img.shields.io/badge/mertozler-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meozler/)
 
