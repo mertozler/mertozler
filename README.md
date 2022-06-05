@@ -8,4 +8,4 @@ Hi, I'm Mert! I've been writing programs since I was 15 years old. I am Backend 
 <a href="https://linkedin.com/in/meozler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meozler" height="30" width="40" /></a>
 </p>
 
-📙 I have a blog where I write about programming and philosophy. [Medium]([https://ssg.dev](https://medium.com/@meozler)).
+📙 I have a blog where I write about programming and philosophy. [Medium](https://meozler.medium.com/)
